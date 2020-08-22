@@ -1,5 +1,23 @@
-.DS_Store
+logs/
+.vscode/
+*.code-workspace
 ._*
 *.swp
-/logs
+.DS_Strore
+**/._*
+**/*.swp
+**/.DS_Store
+**/node_modules/
+**/vendor/
 *.code-workspace
+# Project ignores
+httpdocs/*.php
+httpdocs/wp-admin/
+httpdocs/wp-includes/
+httpdocs/wp-content/index.php
+httpdocs/wp-content/languages/
+httpdocs/wp-content/uploads/
+httpdocs/wp-content/plugins/
+httpdocs/wp-content/upgrade/
+httpdocs/wp-content/themes/*
+!httpdocs/wp-content/themes/cleanisgood/
