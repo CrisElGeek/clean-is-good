@@ -1,0 +1,6 @@
+[submodule "httpdocs/wp-content/themes/cleanisgood/app"]
+	path = httpdocs/wp-content/themes/cleanisgood/app
+	url = git@github.com:CrisElGeek/wordpress-improved-templating.git
+[submodule "httpdocs/wp-content/themes/cleanisgood/httpdocs/wp-content/themes/cleanisgood/app/ls"]
+	path = httpdocs/wp-content/themes/cleanisgood/httpdocs/wp-content/themes/cleanisgood/app/ls
+	url = git@github.com:CrisElGeek/wordpress-improved-templating.git
